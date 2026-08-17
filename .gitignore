@@ -1,0 +1,23 @@
+# Dependencies and Expo local state
+node_modules/
+node_modules 2/
+.expo/
+.DS_Store
+
+# Generated web/export bundles
+dist-ios/
+dist-ios-email-otp/
+dist-ios-final-web/
+dist-ios-latest/
+dist-ios-portal/
+dist-web/
+
+# Native build artifacts and CocoaPods generated files
+ios/build/
+ios/Pods/
+android/.gradle/
+android/build/
+
+# Local IDE and logs
+*.log
+.vscode/

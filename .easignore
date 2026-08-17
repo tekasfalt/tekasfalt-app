@@ -1,0 +1,24 @@
+node_modules
+.expo
+dist
+dist-*
+*.log
+.DS_Store
+
+# Original production footage retained locally for future edits. The app uses
+# the optimized counterparts referenced from App.tsx.
+assets/home-asphalt-source.mov
+assets/corporate/*-source.*
+assets/corporate/production-esenler.mp4
+assets/corporate/production-silivri.mp4
+assets/corporate/production-plentmiks.mov
+assets/corporate/applications.mp4
+assets/corporate/applications-optimized.mp4
+assets/corporate/about.mp4
+assets/corporate/quality.mov
+assets/products/catalog/emulsiyon.mov
+assets/products/catalog/poroz-asfalt.mov
+assets/products/catalog/mastik-asfalt.mp4
+assets/products/catalog/sessiz-asfalt.mov
+assets/products/catalog/hazir-asfalt.png
+assets/products/catalog/emulsiyon.png

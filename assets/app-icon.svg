@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#10182b"/>
+  <path d="M0 0h1024v16H0z" fill="#f47a24"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="512" y="485" fill="#ffffff" font-size="180" font-weight="900" letter-spacing="-10">TEK</text>
+    <text x="512" y="640" fill="#ffffff" font-size="142" font-weight="800" letter-spacing="3">ASFALT</text>
+    <text x="512" y="735" fill="#f47a24" font-size="44" font-weight="700" letter-spacing="17">30 YIL</text>
+  </g>
+  <path d="M835 241h32L751 783h-32z" fill="#f47a24"/>
+</svg>

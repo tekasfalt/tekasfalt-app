@@ -1,0 +1,19 @@
+module.exports = {
+  expo: {
+    name: "Tek Asfalt",
+    slug: "tek-asfalt-mobile",
+    version: "1.0.1",
+    orientation: "portrait",
+    userInterfaceStyle: "automatic",
+    newArchEnabled: true,
+    ios: {
+      supportsTablet: true,
+      buildNumber: "28",
+      bundleIdentifier: "com.tekasfalt.mobile",
+    },
+    android: {
+      package: "com.tekasfalt.mobile",
+    },
+    web: {},
+  },
+};

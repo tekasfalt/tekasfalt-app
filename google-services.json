@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332356480335",
+    "project_id": "tekasfalt",
+    "storage_bucket": "tekasfalt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332356480335:android:e7110728171cf28d90693a",
+        "android_client_info": {
+          "package_name": "com.tekasfalt.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332356480335-ahp662gncq84sd2dq85b8l2992ktcmb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkk29Z8HoYz3OIMVSkrOVqFzsP23_53PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332356480335-ahp662gncq84sd2dq85b8l2992ktcmb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332356480335-rt8onscdga88alm2ijjsc0sm3bt55hgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tekasfalt.com",
+                "app_store_id": "058"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

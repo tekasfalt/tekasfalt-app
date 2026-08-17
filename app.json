@@ -1,0 +1,74 @@
+{
+  "expo": {
+    "name": "Tek Asfalt",
+    "slug": "tek_app2026",
+    "scheme": "tekasfalt",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon-2026.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/2026-teklogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#10171D"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "34",
+      "bundleIdentifier": "com.tekasfalt.mobile",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSCameraUsageDescription": "Saha fotoğrafı eklemek, AR ile çukur ölçümü yapmak ve stok yığını taramasıyla yaklaşık hacim hesabı hazırlamak için kameraya erişim gerekir.",
+        "NSPhotoLibraryUsageDescription": "Teklif talebinize mevcut saha fotoğraflarını eklemek için fotoğraf arşivine erişim gerekir.",
+        "NSLocationWhenInUseUsageDescription": "Proje adresini hızlı ve doğru doldurmak için yalnızca siz istediğinizde konumunuz kullanılır.",
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": false
+        }
+      }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "READ_MEDIA_IMAGES",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-icon-2026.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.tekasfalt.mobile"
+    },
+    "web": {
+      "favicon": "./assets/app-icon-2026.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/app-icon-2026.png",
+          "color": "#F47A24",
+          "defaultChannel": "default"
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static",
+            "deploymentTarget": "15.1"
+          }
+        }
+      ]
+    ],
+    "owner": "cihat58",
+    "extra": {
+      "eas": {
+        "projectId": "644d5668-c1cc-47b5-a3bf-e3783337a0bf"
+      }
+    }
+  }
+}

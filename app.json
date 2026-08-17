@@ -40,7 +40,8 @@
         "backgroundColor": "#FFFFFF"
       },
       "googleServicesFile": "./google-services.json",
-      "package": "com.tekasfalt.mobile"
+      "package": "com.tekasfalt.mobile",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/app-icon-2026.png"

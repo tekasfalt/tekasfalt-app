@@ -41,7 +41,7 @@
       },
       "googleServicesFile": "./google-services.json",
       "package": "com.tekasfalt.mobile",
-      "versionCode": 3
+      "versionCode": 4
     },
     "web": {
       "favicon": "./assets/app-icon-2026.png"
